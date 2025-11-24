@@ -6,4 +6,4 @@ date: 2025-11-24
 
 s piskorou??
 Kdo je piskora?
-Jarda Piskora byl muj spolubojovník v armádě.
+J. Piskoř byl muj spolubojovník v armádě.
