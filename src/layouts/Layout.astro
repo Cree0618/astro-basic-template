@@ -5,19 +5,20 @@
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>jednoduchy blog</title>
+		<title>blok</title>
 	</head>
 	<body>
 		<header>
 			<nav>
 				<a href="/">Domů</a>
+				<a href="/things">Věci</a>
 			</nav>
 		</header>
 		<main>
 			<slot />
 		</main>
 		<footer>
-			<p>&copy; uvnitř počítače</p>
+			<p>don't forget</p>
 		</footer>
 	</body>
 </html>
@@ -49,7 +50,10 @@
 		color: #000;
 		text-decoration: none;
 		font-weight: bold;
-		font-size: 1.2rem;
+		font-size: 1.5rem;
+		margin-right: 2rem;
+		word-spacing: 20px;
+		
 	}
 	header a:hover {
 		text-decoration: underline;
